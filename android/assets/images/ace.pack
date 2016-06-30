@@ -1,0 +1,171 @@
+
+ace.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ace
+  rotate: false
+  xy: 0, 633
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 0
+ace
+  rotate: false
+  xy: 0, 422
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 1
+ace
+  rotate: false
+  xy: 200, 633
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 2
+ace
+  rotate: false
+  xy: 0, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 3
+ace
+  rotate: false
+  xy: 200, 422
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 4
+ace
+  rotate: false
+  xy: 400, 633
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 5
+ace
+  rotate: false
+  xy: 0, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 6
+ace
+  rotate: false
+  xy: 200, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 7
+ace
+  rotate: false
+  xy: 400, 422
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 8
+ace
+  rotate: false
+  xy: 600, 633
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 9
+ace
+  rotate: false
+  xy: 200, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 10
+ace
+  rotate: false
+  xy: 400, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 11
+ace
+  rotate: false
+  xy: 600, 422
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 12
+ace
+  rotate: false
+  xy: 800, 633
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 13
+ace
+  rotate: false
+  xy: 400, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 14
+ace
+  rotate: false
+  xy: 600, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 15
+ace
+  rotate: false
+  xy: 800, 422
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 16
+ace
+  rotate: false
+  xy: 600, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 17
+ace
+  rotate: false
+  xy: 800, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 18
+ace
+  rotate: false
+  xy: 800, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 19
+
+ace2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ace
+  rotate: false
+  xy: 0, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 20
+ace
+  rotate: false
+  xy: 200, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 21
+ace
+  rotate: false
+  xy: 400, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 22

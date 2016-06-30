@@ -1,0 +1,26 @@
+
+loadscreen.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+loadscreen
+  rotate: false
+  xy: 1, 93
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+loadbar
+  rotate: false
+  xy: 1, 1
+  size: 369, 90
+  orig: 369, 93
+  offset: 0, 0
+  index: -1
+loadelement
+  rotate: false
+  xy: 803, 671
+  size: 1, 22
+  orig: 1, 22
+  offset: 0, 0
+  index: -1

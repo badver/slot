@@ -1,0 +1,510 @@
+
+cocos.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cocos
+  rotate: false
+  xy: 0, 633
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 10
+cocos
+  rotate: false
+  xy: 0, 422
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 28
+cocos
+  rotate: false
+  xy: 200, 633
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 46
+cocos
+  rotate: false
+  xy: 0, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 11
+cocos
+  rotate: false
+  xy: 200, 422
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 12
+cocos
+  rotate: false
+  xy: 400, 633
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 13
+cocos
+  rotate: false
+  xy: 0, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 14
+cocos
+  rotate: false
+  xy: 200, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 15
+cocos
+  rotate: false
+  xy: 400, 422
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 16
+cocos
+  rotate: false
+  xy: 600, 633
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 17
+cocos
+  rotate: false
+  xy: 200, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 18
+cocos
+  rotate: false
+  xy: 400, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 19
+cocos
+  rotate: false
+  xy: 600, 422
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 20
+cocos
+  rotate: false
+  xy: 800, 633
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 21
+cocos
+  rotate: false
+  xy: 400, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 22
+cocos
+  rotate: false
+  xy: 600, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 23
+cocos
+  rotate: false
+  xy: 800, 422
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 24
+cocos
+  rotate: false
+  xy: 600, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 25
+cocos
+  rotate: false
+  xy: 800, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 26
+cocos
+  rotate: false
+  xy: 800, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 27
+
+cocos2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cocos
+  rotate: false
+  xy: 0, 633
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 29
+cocos
+  rotate: false
+  xy: 0, 422
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 30
+cocos
+  rotate: false
+  xy: 200, 633
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 31
+cocos
+  rotate: false
+  xy: 0, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 32
+cocos
+  rotate: false
+  xy: 200, 422
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 33
+cocos
+  rotate: false
+  xy: 400, 633
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 34
+cocos
+  rotate: false
+  xy: 0, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 35
+cocos
+  rotate: false
+  xy: 200, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 36
+cocos
+  rotate: false
+  xy: 400, 422
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 37
+cocos
+  rotate: false
+  xy: 600, 633
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 38
+cocos
+  rotate: false
+  xy: 200, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 39
+cocos
+  rotate: false
+  xy: 400, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 40
+cocos
+  rotate: false
+  xy: 600, 422
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 41
+cocos
+  rotate: false
+  xy: 800, 633
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 42
+cocos
+  rotate: false
+  xy: 400, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 43
+cocos
+  rotate: false
+  xy: 600, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 44
+cocos
+  rotate: false
+  xy: 800, 422
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 45
+cocos
+  rotate: false
+  xy: 600, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 47
+cocos
+  rotate: false
+  xy: 800, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 48
+cocos
+  rotate: false
+  xy: 800, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 49
+
+cocos3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cocos
+  rotate: false
+  xy: 0, 633
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 50
+cocos
+  rotate: false
+  xy: 0, 422
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 51
+cocos
+  rotate: false
+  xy: 200, 633
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 52
+cocos
+  rotate: false
+  xy: 0, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 53
+cocos
+  rotate: false
+  xy: 200, 422
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 54
+cocos
+  rotate: false
+  xy: 400, 633
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 55
+cocos
+  rotate: false
+  xy: 0, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 56
+cocos
+  rotate: false
+  xy: 200, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 57
+cocos
+  rotate: false
+  xy: 400, 422
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 58
+cocos
+  rotate: false
+  xy: 600, 633
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 59
+cocos
+  rotate: false
+  xy: 200, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 60
+cocos
+  rotate: false
+  xy: 400, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 61
+cocos
+  rotate: false
+  xy: 600, 422
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 62
+cocos
+  rotate: false
+  xy: 800, 633
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 63
+cocos
+  rotate: false
+  xy: 400, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 64
+cocos
+  rotate: false
+  xy: 600, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 65
+cocos
+  rotate: false
+  xy: 800, 422
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 66
+cocos
+  rotate: false
+  xy: 600, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 67
+cocos
+  rotate: false
+  xy: 800, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 68
+cocos
+  rotate: false
+  xy: 800, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 69
+
+cocos4.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cocos
+  rotate: false
+  xy: 0, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 0
+cocos
+  rotate: false
+  xy: 0, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 1
+cocos
+  rotate: false
+  xy: 200, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 2
+cocos
+  rotate: false
+  xy: 200, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 3
+cocos
+  rotate: false
+  xy: 400, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 4
+cocos
+  rotate: false
+  xy: 400, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 5
+cocos
+  rotate: false
+  xy: 600, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 6
+cocos
+  rotate: false
+  xy: 600, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 7
+cocos
+  rotate: false
+  xy: 800, 211
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 8
+cocos
+  rotate: false
+  xy: 800, 0
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: 9
